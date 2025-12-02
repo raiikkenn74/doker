@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"           # корень репозитория, где лежит requirements.txt
+    schedule:
+      interval: "daily"      # проверки зависимостей раз в день
+    open-pull-requests-limit: 5
