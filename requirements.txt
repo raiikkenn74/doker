@@ -4,7 +4,7 @@ requests==2.32.4
 PyYAML==5.4
 Flask==2.2.5
 
-rich==13.7.0
+rich==14.2.0
 python-dotenv==1.0.1
 
 
