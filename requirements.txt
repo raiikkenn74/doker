@@ -3,3 +3,6 @@ pandas==2.1.0
 requests==2.32.4
 PyYAML==6.0
 Flask==2.3.3
+
+rich==13.7.0
+python-dotenv==1.0.1
